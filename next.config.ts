@@ -3,7 +3,7 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   /* config options here */
-  swcMinify: false, // Disable SWC minification
+  //swcMinify: false, // Disable SWC minification
 
   images: {
     domains: ['images.unsplash.com', 'i.pravatar.cc'], // Add all required domains in one array
